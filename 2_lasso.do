@@ -269,7 +269,7 @@ Comentario 3: Al no saber la teoria del algoritmo LASSO, no se porque se utiliza
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *4. Run Post-LASSO to generate predicted migration figures for each county by decade.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
-
+Comentario 4: ¿Porque hay tres etapas en el calculo de los estimadores? LASSO en R > Variables de Boustan (2016) > Post-LASSO
 	/* Load full clean data. */
 	
 	cd "$migdata"
