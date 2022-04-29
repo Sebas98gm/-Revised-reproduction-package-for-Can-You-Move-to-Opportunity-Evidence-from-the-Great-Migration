@@ -407,6 +407,10 @@ Comentario 4: ¿Porque hay tres etapas en el calculo de los estimadores? LASSO e
 	
 	save $instrument/3_lasso_boustan_predict_mig_state.dta, replace
 
+Comentario 5: Este paso donde se utiliza la migracion y demografia pre-1940 como base de comparacion a los posteriores choques es de suma importancia,
+              ya que revela conexiones entre los migrantes dado su lugar de precedencia y de destino, por lo que refuerza tanto la prediccion de
+	      los estimadores como la argumentacion del paper
+	      
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *5. Within state variation in migration.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
