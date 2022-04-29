@@ -395,7 +395,8 @@ Comentario #18: Finalmente, se estima por medio de OLS el efecto de la migracion
 	xtile GM_hatr`i' = vr`i'_bpopchange_pred1940_1970, nq(100) 
 	}	
 
-	
+Comentario #19: De aqui en adelante, se usa la instrumentacion y la medicion de los choques migratorios para ver el impacto en otras variables mas cualitativas, 
+                como la cantidad de arresto en las CZ, el gasto en rubro policiaco, diferencias en ingreso a escualas publicas y privadas, entre otras.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *6. Finalize mechanism variables 
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
