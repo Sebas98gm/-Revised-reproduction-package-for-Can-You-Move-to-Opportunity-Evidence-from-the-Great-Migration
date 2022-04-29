@@ -580,7 +580,10 @@ Comentario 7: Cabria mencionar que aqui se estan limpiando los datos de los cond
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *7. White southern migration.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
-
+Comentario 8: Una vez limpiados los datos y estimada la migracion total entre estados del sur y ciudades del norte, se calcula la migracion de blancos
+              proveniente del sur para que, al restarla de la migracion total, solo quede la migracion de Afros. Esto podria ser un inconveniente porque
+	      la resta podria estar contando la migracion de otras etnias y/o nacionalidades, la poblacion afro es la mayoritaria pero seria mejor desglosar
+	      este paso dentro del paper
 	/* Load full clean data. */
 	
 	cd "$migdata"
