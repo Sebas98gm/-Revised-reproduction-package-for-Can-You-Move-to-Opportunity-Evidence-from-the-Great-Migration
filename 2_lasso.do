@@ -415,6 +415,9 @@ Comentario 5: Este paso donde se utiliza la migracion y demografia pre-1940 como
 *5. Within state variation in migration.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
 
+Comentario 6: Aqui, se encuentra aquella migracion que fue hecha dentro de un mismo estado, por lo que es importante exluirla de la migracion total
+              pues la metodologia busca explicar la migracion con choques especificos a ciertas industrias y poblaciones de diferentes estados
+	      
 	/* Load full clean data. */
 	
 	cd "$migdata"
