@@ -2,6 +2,10 @@
 
 2. Predict netmigration from the South between 1940 and 1970.
 
+Comentario 0: Previamente se importaron y limpiaron diversas y bastantes bases de datos acerca de censos poblacionales y de migracion
+              sobre condados del sur (procedencia) y ciudades del norte (destino) de EE. UU, todo esto para obtener variables que 
+	      estimen y predigan la migracion de afros entre 1940 y 1970
+
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
 STEPS:
 	*1. Create and clean the migration datasets for prediction for each decade. 
