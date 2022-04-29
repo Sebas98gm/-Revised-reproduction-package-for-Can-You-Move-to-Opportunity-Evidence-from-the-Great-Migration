@@ -70,7 +70,8 @@ Comentario: que no haya informacion de 350 condados, en especial si son del esta
 	gen perminot=permin*ot
 	
 	/* Save the dataset that will be used for post LASSO */
-	
+Comentario 2: ¿Porque utiliza R para correr el algortimo LASSO? Tengo entendido que STATA tiene la posibilidad de correr este algrotimo para predecir estimadores
+              https://www.stata.com/features/overview/lasso-model-selection-prediction/
 	cd "$migdata"
 	save clean_south_county.dta, replace
 	
