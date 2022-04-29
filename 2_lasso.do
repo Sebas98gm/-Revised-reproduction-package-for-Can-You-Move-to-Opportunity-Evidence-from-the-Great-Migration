@@ -494,7 +494,8 @@ Comentario 6: Aqui, se encuentra aquella migracion que fue hecha dentro de un mi
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *6. Dropping urban counties.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
-
+Comentario 7: Cabria mencionar que aqui se estan limpiando los datos de los condados urbanos de los estados de procedencia de migracion, mas no de destino,
+              ya que este sera un control importante en la estimacion de la migracion
 	/* Load full clean data. */
 	cd "$migdata"
 	use clean_south_county.dta, clear
