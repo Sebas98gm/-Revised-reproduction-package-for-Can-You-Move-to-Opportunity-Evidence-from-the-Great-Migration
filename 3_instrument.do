@@ -262,7 +262,9 @@ Comentario 10: En estos primeros 7 pasos solo se importan las variables y esimac
 	do $bartik/bartik_generic.do
 	}
 */
-
+Comentario 11: Se hace una prueba placebo para verificar la validez del procedimiento, en este caso se mira el efecto de la Gran Migracion en la movilidad
+               social, medida en educacion, para 1940. Los resultados muestran una consistencia en la estimacion y la migracion observada,
+	       tambien que los choques utilizados sirven para evaluar post-1940.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *9. Northern measure of 1940 southern county upward mobility.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
