@@ -44,7 +44,8 @@ STEPS:
 	replace perman=perman[_n-1] if year==1970 & perman==. & countyicp==countyicp[_n-1]
 	
 	/* Note that migration data is missing for several counties in Virginia. */
-	
+Comentario: que no haya informacion de 350 condados, en especial si son del estado de Virginia por su gran importancia migratoria, debe ser mencionado en el paper
+            de manera explicita, pues podria estar sobre o subestimando el efecto migratorio de este estado.
 	/* Boustan (2016): Interact variables with % cotton and % agriculture. */
 	
 	replace perten=perten/100
