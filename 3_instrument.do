@@ -19,7 +19,8 @@ STEPS:
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------*/	
 Comentario 9: Una vez calculada la migracion total de la oblacion afro de estados del sur a ciudades del norte, se entra en la segunda parte de la metodologia,
               donde las variables de esta migracion total se usan para estimar la relacion entre los instrumentos de choque exogeno, 
-	      el percentil predecido de migracion afro y el percentil real observado de migracion afro
+	      el percentil predecido de migracion afro y el percentil real observado de migracion afro. obteniendo con exactitud no solo la cantidad 
+	      de migracion debido a unos choques, sino tambien una captura endógena que relaciona los puntos de origen y destino.
 
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *1. Observed southern county net-migration.
