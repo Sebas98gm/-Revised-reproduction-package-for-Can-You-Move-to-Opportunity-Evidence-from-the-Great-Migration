@@ -187,7 +187,7 @@ Comentario 2: ¿Porque se usa R para correr el algoritmo LASSO? Tengo entendido 
 	}
 	END_OF_R
 */
-
+Comentario 3: Al no saber la teoria del algoritmo LASSO, no se porque se utiliza para mejorar los estimadores de migracion ya encontrados por Boustan (2016)
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *3. Predict using original Boustan (2016) variables.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
