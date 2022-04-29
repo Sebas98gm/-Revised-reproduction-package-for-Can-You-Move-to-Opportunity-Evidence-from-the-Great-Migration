@@ -850,4 +850,6 @@ Comentario 13: Este ultimo paso de la estimacion es donde se tiene en cuenta la 
 	       decision de migrar y no solamente por los choques exogenos incluidos aqui, cito el texto:
 	       "separating out the Migration’s effects on the composition of local families, which may alter average outcomes, 
 	       from effects on the environment or locational factors"
-
+Comentario 14: Para hacer esto, limpian e individualizan una base de datos para cada ciudad del norte y condados del sur que pertenecen a la muestra,
+               algunos de estos no pudieron ser codificados. Luego, parece que hacen un "match" entre la tendencia migratoria de los lugares de precedencia 
+	       y de destino. Este proceso fue mejorado en varias versiones dentro del mismo codigo.
