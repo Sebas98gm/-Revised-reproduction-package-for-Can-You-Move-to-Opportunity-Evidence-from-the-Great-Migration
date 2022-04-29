@@ -385,7 +385,10 @@ CComentario 17: Junto a la instrumentacion y la diferenciacion del cambio migrat
 	foreach v in "8" {	
 	xtile GM_hat`v' = v`v'_wpopchange_pred1940_1970, nq(100) 
 	}
-	
+
+Comentario #18: Finalmente, se estima por medio de OLS el efecto de la migracion instrumentada hacia las CZ sobre la movilidad social de esta poblacion afro
+                migratoria. Junto con unas posteriores regresiones de 2SLS, los resultados son consistentes en decir que a mayor grado de migracion hacia
+		una CZ, los efectos en la movilidas social, por lo menos para educacion e ingreso, son negativos y significantes.
 
 	* Placebo shocks
 	forval i=1(1)1000{	
