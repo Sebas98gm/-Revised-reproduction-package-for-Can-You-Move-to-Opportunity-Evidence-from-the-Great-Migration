@@ -123,6 +123,9 @@ Comentario 1: Seria valioso mencionar explicitamente en el articulo que de 350 c
 
 	/* Initiate R and run LASSO using cv glmnet. */
 	
+Comentario 2: ¿Porque se usa R para correr el algoritmo LASSO? Tengo entendido que STATA tiene la posibilidad de correr este algoritmo
+              https://www.stata.com/features/overview/lasso-model-selection-prediction/
+	
 /*
 	global Rterm_path `"/usr/local/bin/r"'
 	
