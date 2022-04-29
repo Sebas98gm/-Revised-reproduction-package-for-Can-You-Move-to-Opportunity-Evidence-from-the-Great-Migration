@@ -316,7 +316,10 @@ Comentario 15: se une en una sola base de datos todo lo estimado previamente: mi
 	
 	g v`v'_black`svar'1940=v`v'_`group'_proutmigpr/popc1940
 	}
-	
+
+Comentario 16: Utilizando la instrumentacion mencionada anteriormente, se diferencia la inmigracion de poblacion afro en ciudades del norte que 
+               se hospedaron en las determinadas Commuting Zones. Sin embargo, no entiendo si se compara con el cambio demografico afro de otras zonas urbanas, 
+	       o solo se mide el efecto local de dichas CZ.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *4. Merge in all datasets.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
