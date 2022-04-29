@@ -245,7 +245,10 @@ STEPS:
 	keep *_proutmigpr* *_actoutmigact* *_residoutmigresid* popc1940 bpopc1940 popc1970 bpopc1970 *migcity3539 statefip citycode city city_original cz cz_name
 	drop if popc1970==.
 	save $city_sample/GM_city_final_dataset.dta, replace
-	
+
+Comentario 15: se une en una sola base de datos todo lo estimado previamente: migracion afro total observada, estimadores de migracion por ciudad de origen
+               y de destino que toman en cuenta choques exogenos y la endogeneidad en la relacion inframigratoria. Esto esta entendido como la instrumentacion
+	       de la parte metodologica, para usarla en posteriores regresiones que midan su efecto en la movilidad social medida en educacion.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *3. Construct measure of black urban pop change and instrument for black urban in-migration at CZ level.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
