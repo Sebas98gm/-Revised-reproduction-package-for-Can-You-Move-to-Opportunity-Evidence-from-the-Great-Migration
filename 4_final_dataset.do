@@ -351,6 +351,9 @@ Comentario 16: Utilizando la instrumentacion mencionada anteriormente, se difere
 	merge 1:1 cz using $xwalks/cz_state_region_crosswalk.dta, keepusing(state_id region) keep (3) nogenerate
 	replace cz_name="Louisville, KY" if cz==13101 // Fill in Louisville, KY name, which was missing.
 	
+CComentario 17: Junto a la instrumentacion y la diferenciacion del cambio migratorio afro de las CZ, se le unen bases de dato sobre movilidad social, gasto publico
+               mecanismos de control, "POLITICAL ECONOMY & RACIAL ANIMUS", criminologia y encarcelamiento, datos de escuelas privadas y una distincion de los diferentes
+	       barrios de las ciudades del norte.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *5. Create rank measure of shock. 
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
