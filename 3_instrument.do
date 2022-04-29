@@ -214,6 +214,9 @@ Comentario 9: Una vez calculada la migracion total de la oblacion afro de estado
 		
 	do $bartik/bartik_generic.do
 
+Comentario 10: En estos primeros 7 pasos solo se importan las variables y esimaciones encontrados en el do-file "2_lasso.do",
+               esto se podria acrtar y dejar en un solo do-file la parte de estimacion del paper, en vez de 2 diferentes como se hizo
+
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *8. Placebo migration shocks.
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
