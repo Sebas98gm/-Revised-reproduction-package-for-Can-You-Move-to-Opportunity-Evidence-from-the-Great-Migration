@@ -845,3 +845,9 @@ Comentario 12: como base de comparacion y normalizacion para medir los efectos d
 		save ${instrument}/city_crosswalked/rndmig/r`i'_black_prmig_1940_1940_wide_xw.dta, replace
 	}
 	
+Comentario 13: Este ultimo paso de la estimacion es donde se tiene en cuenta la endogeneidad de la Gran Migracion, pues a pesar de tener la estimacion
+               de la migracion Afro con resultados consistentes a los bservados, hay que identificar diversas razones por las que una persona toma la 
+	       decision de migrar y no solamente por los choques exogenos incluidos aqui, cito el texto:
+	       "separating out the Migration’s effects on the composition of local families, which may alter average outcomes, 
+	       from effects on the environment or locational factors"
+
