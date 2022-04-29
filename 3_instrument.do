@@ -303,6 +303,8 @@ Comentario 11: Se hace una prueba placebo para verificar la validez del procedim
 		
 	do $bartik/bartik_sum_to_one.do
 
+Comentario 12: como base de comparacion y normalizacion para medir los efectos de la movilidad social en educacion, se estiman las variables estanadares
+               para 1940 en las ciudades del norte para aquellas personas que provengan de condados del sur
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%	
 *10. Clean and standardize city names and output final instrument measures at the city-level
 *------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------%
